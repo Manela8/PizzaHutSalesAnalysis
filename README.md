@@ -79,7 +79,7 @@ pizza-sales-analysis/
 
 4. **Average of 138 pizzas sold per day** throughout the year — with clear peak hours identifiable from hourly distribution, useful for staffing and kitchen planning.
 
-5. **The Greek XXL is the most expensive pizza at $35.95** — XL and XXL sizes have very low uptake (544 and 28 orders respectively), suggesting premium sizing may need better promotion or pricing adjustment.
+5. **The Greek XXL is the most expensive pizza at $35.95** — XL and XXL sizes have very low uptake (544 and 28 orders respectively), suggesting premium sizing may need better promotion or pricing adjustment
 
 ---
 
